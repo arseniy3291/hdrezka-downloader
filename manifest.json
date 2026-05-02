@@ -5,7 +5,10 @@
   "description": "Скачивайте фильмы и сериалы с HDRezka.",
   "browser_specific_settings": {
     "gecko": {
-      "id": "hdrezka-downloader@arseniy3291"
+      "id": "hdrezka-downloader@arseniy3291",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   },
   "icons": {
