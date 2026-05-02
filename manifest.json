@@ -3,6 +3,11 @@
   "name": "HDRezka Downloader",
   "version": "1.0",
   "description": "Скачивайте фильмы и сериалы с HDRezka.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hdrezka-downloader@arseniy3291"
+    }
+  },
   "icons": {
     "48": "icons/icon.svg",
     "96": "icons/icon.svg"
