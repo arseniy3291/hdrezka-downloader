@@ -16,7 +16,7 @@
 
 1. Скачайте или клонируйте этот репозиторий на свой компьютер:
    ```bash
-   git clone https://github.com/ВАШ_НИК/hdrezka-downloader.git
+   git clone https://github.com/arseniy3291/hdrezka-downloader.git
    ```
 2. Откройте браузер **Firefox**.
 3. В адресной строке введите `about:debugging` и нажмите Enter.
